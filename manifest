@@ -1,0 +1,11 @@
+: 1
+name: libformat
+version: 0.1.0-a.0.z
+summary: format C++ library
+license: other: proprietary ; Not free/open source.
+description-file: README.md
+url: https://example.org/libformat
+email: lite2073+git@gmail.com
+depends: * build2 >= 0.13.0
+depends: * bpkg >= 0.13.0
+depends: fmt ~7.1.0

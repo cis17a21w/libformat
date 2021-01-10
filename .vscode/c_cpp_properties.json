@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/../libformat-clang/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk/System/Library/Frameworks"
+            ],
+            "cppStandard": "c++20"
+        }
+    ],
+    "version": 4
+}

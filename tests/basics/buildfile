@@ -1,0 +1,3 @@
+import libs = libformat%liba{format}
+
+exe{driver}: {hxx ixx txx cxx}{**} $libs testscript{**}

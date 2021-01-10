@@ -1,0 +1,6 @@
+$out_root/
+{
+  include libformat/
+}
+
+export $out_root/libformat/$import.target
