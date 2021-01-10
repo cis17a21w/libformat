@@ -1,6 +1,6 @@
 : 1
 name: libformat
-version: 0.1.0
+version: 0.2.0-a.0.z
 summary: format C++ library
 license: other: proprietary ; Not free/open source.
 description-file: README.md
